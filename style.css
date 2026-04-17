@@ -1053,7 +1053,7 @@ blockquote { quotes: none; }
 .footer__col ul { display: flex; flex-direction: column; gap: 0.5rem; }
 .footer__col ul a { font-size: 0.875rem; color: #a8a29e; transition: color 0.15s; }
 .footer__col ul a:hover { color: #fff; }
-.footer__bottom { display: flex; align-items: center; justify-content: space-between; font-size: 0.8125rem; color: #57534e; }
+.footer__bottom { display: flex; align-items: center; justify-content: space-between; font-size: 0.8125rem; color: #a8a29e; }
 .footer__credit { font-size: 0.75rem; }
 
 /* ─── Responsive ─── */
