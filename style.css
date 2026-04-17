@@ -655,7 +655,7 @@ blockquote { quotes: none; }
 .mockup__address {
   flex: 1;
   font-size: 10px;
-  color: #888;
+  color: #666;
   background: #f8f8f8;
   border-radius: 4px;
   padding: 2px 8px;
@@ -674,14 +674,14 @@ blockquote { quotes: none; }
 .old-table__biz { line-height: 1.4; }
 .old-table__nav { background: #dde; padding: 5px 8px; font-size: 10px; text-align: center; border-bottom: 1px solid #bbb; }
 .old-link { color: #0000cc; text-decoration: underline; margin: 0 3px; cursor: pointer; }
-.old-link--dead { color: #999; }
+.old-link--dead { color: #555; }
 .old-table__main { padding: 10px 8px; vertical-align: top; }
 .old-body { font-size: 10px; color: #333; margin-bottom: 6px; line-height: 1.5; }
 .old-phone { font-size: 11px; color: #c00; font-weight: bold; }
 .old-broken-img { font-size: 9px; color: #c00; background: #fee; padding: 4px 8px; border: 1px solid #fcc; border-radius: 3px; margin-bottom: 6px; }
 .old-table__side { padding: 10px 8px; vertical-align: top; width: 35%; border-left: 1px solid #ccc; background: #f9f9f0; }
 .old-sidebar { font-size: 9.5px; line-height: 1.6; color: #444; }
-.old-table__footer { background: #dde; color: #666; font-size: 9px; padding: 5px 8px; text-align: center; border-top: 1px solid #bbb; }
+.old-table__footer { background: #dde; color: #5c5c5c; font-size: 9px; padding: 5px 8px; text-align: center; border-top: 1px solid #bbb; }
 
 /* New site mockup content */
 .new-mockup { font-size: 10px; }
@@ -1046,12 +1046,12 @@ blockquote { quotes: none; }
   align-items: center;
   justify-content: center;
 }
-.footer__tagline { color: #78716c; font-size: 0.875rem; line-height: 1.6; margin-bottom: 0.75rem; }
+.footer__tagline { color: #a8a29e; font-size: 0.875rem; line-height: 1.6; margin-bottom: 0.75rem; }
 .footer__email { font-size: 0.875rem; color: var(--brand-light); text-decoration: underline; }
 .footer__links { display: flex; gap: 3rem; }
 .footer__col-title { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #a8a29e; margin-bottom: 0.875rem; }
 .footer__col ul { display: flex; flex-direction: column; gap: 0.5rem; }
-.footer__col ul a { font-size: 0.875rem; color: #78716c; transition: color 0.15s; }
+.footer__col ul a { font-size: 0.875rem; color: #a8a29e; transition: color 0.15s; }
 .footer__col ul a:hover { color: #fff; }
 .footer__bottom { display: flex; align-items: center; justify-content: space-between; font-size: 0.8125rem; color: #57534e; }
 .footer__credit { font-size: 0.75rem; }
